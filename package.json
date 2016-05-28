@@ -1,6 +1,6 @@
 {
-  "name": "passport-youtube-v3",
-  "version": "2.0.0",
+  "name": "passport-youtube-v3-playlists",
+  "version": "1.0.0",
   "description": "Youtube v3 API OAuth2 authentication strategy for Passport.  Based on the passport-youtube module",
   "keywords": [
     "passport",
@@ -12,22 +12,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/yanatan16/passport-youtube-v3.git"
+    "url": "git://github.com/atalw/passport-youtube-v3-playlists.git"
   },
   "bugs": {
-    "url": "http://github.com/yanatan16/passport-youtube-v3/issues"
+    "url": "http://github.com/atalw/passport-youtube-v3-playlists/issues"
   },
   "author": {
-    "name": "Jon Eisen",
-    "email": "jon@joneisen.works",
-    "url": "http://joneisen.works/"
+    "name": "Akshit",
+    "email": "akshitalwar11@gmail.com",
+    "url": "http://atalwar.com/"
   },
   "license": "MIT",
-  "main": "./lib/passport-youtube-v3",
+  "main": "./lib/passport-youtube-v3-playlists",
   "dependencies": {
     "passport-oauth2": "1.1.2"
   },
-  "readme": "passport-youtube-v3\n================\n\nYoutube API v3 strategy for passport",
+  "readme": "passport-youtube-v3-playlists\n================\n\nYoutube API v3 strategy for passport",
   "devDependencies": {
     "express": "^4.13.3",
     "passport": "^0.3.2"
