@@ -1,6 +1,6 @@
 {
   "name": "passport-youtube-v3-playlists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Youtube v3 API OAuth2 authentication strategy for Passport.  Based on the passport-youtube module",
   "keywords": [
     "passport",
